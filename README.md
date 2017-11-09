@@ -8,6 +8,8 @@ The project wraps the Recorder API in a thin COM wrapper, which is then bound in
 
 Only a subset of the Recorder API is currently exposed to Java, with basic recorder capabilties, events, channel and call search and retrieval functions being available.
 
+![Overview](https://github.com/stewilkonice/JRecorderAPI/blob/master/Documents/Overview.png)
+
 ## Build
 The project is split into two components.
 
